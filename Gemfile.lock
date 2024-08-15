@@ -580,11 +580,11 @@ DEPENDENCIES
   bixby (~> 3.0, >= 3.0.2)
   coveralls
   deprecation
-  engine_cart (~> 2.2)
+  engine_cart
   factory_bot (~> 4.4)
   i18n-tasks
   linkeddata
-  qa (~> 5.5, >= 5.5.1)
+  qa
   qa_server!
   rails-controller-testing (~> 1)
   rspec-activemodel-mocks (~> 1.0)
